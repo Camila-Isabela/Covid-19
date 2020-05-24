@@ -1,6 +1,7 @@
-# Covid-19 [![Netlify Status](https://api.netlify.com/api/v1/badges/39501771-5ef6-4bf0-8719-c6608af760f4/deploy-status)](https://app.netlify.com/sites/contador-react-babel/deploys)    
- <img alt="APM" src="https://img.shields.io/apm/l/vim-mode?color=crimson&logo=none">
+# Covid-19 
 ## :green_heart: :computer: Desafio Bootcamp Gama Academy :rocket:
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/39501771-5ef6-4bf0-8719-c6608af760f4/deploy-status)](https://app.netlify.com/sites/contador-react-babel/deploys) <img alt="APM" src="https://img.shields.io/apm/l/vim-mode?color=crimson&logo=none">
 
 No GitHub-Pages --> https://camila-00.github.io/Covid-19/
 
